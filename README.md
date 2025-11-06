@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Uche1-God/Uche1-God/blob/main/banner.png" alt="Uche Banner" width="100%" />
+</p>
+
 <!-- Profile README for @Uche1-God -->
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Uche</span>!</h1>
@@ -37,8 +41,8 @@
 ## 🛠️ Tech Stack  
 
 **Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 **Backend & Databases:**  
@@ -54,7 +58,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4)
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Render](https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=46E3B7)
-
 ---
 
 ## 🧩 Project Showcase  
