@@ -130,10 +130,10 @@
   <a href="mailto:93.uche@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
-  <a href="https://linkedin.com/in/uche1-god" target="_blank">
+  <a href="https://www.linkedin.com/in/brunoezeigbo123" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="https://x.com/Uche1_God" target="_blank">
+  <a href="https://x.com/Mickey_Do_?s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter(X)-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" />
   </a>
 </p>
