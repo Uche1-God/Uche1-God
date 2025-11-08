@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="file_00000000aea8720abf711a6e3d03e775.png" alt="Uche Banner" width="100%" />
+  <img src="file_00000000aea8720abf711a6e3d03e775.png" alt="Uche Banner" width="100%" height="5%" />
 </p>
 
 <!-- Profile README for @Uche1-God -->
