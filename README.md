@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Uche1-God/Uche1-God/blob/main/![git_banner](https://github.com/user-attachments/assets/0d03449a-c733-452e-8395-81f97ad6f31f)"
+  <img src="git_banner.jpeg"
 " alt="Uche Banner" width="100%" />
 </p>
 
