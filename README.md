@@ -6,9 +6,12 @@
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Uche</span>!</h1>
 
-<p align="center">
-  🚀 <b>Web Developer | Backend Learner | Team Proliferater</b>  
-</p>
+<div align="center">
+
+🚀 **Full-Stack Developer | Backend Engineer | Python • Django • MySQL | Team Proliferater**
+
+</div>
+
 
 <p align="center">
   I’m passionate about crafting <b>modern, responsive, and efficient</b> web applications.<br>
