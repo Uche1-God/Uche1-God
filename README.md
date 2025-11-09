@@ -13,10 +13,13 @@
 </div>
 
 
-<p align="center">
-  I’m passionate about crafting <b>modern, responsive, and efficient</b> web applications.<br>
-  Currently diving deep into <b>backend programming</b> and expanding into <b>full-stack development</b>.
-</p>
+<div align="center">
+
+💡 **Passionate about crafting powerful, responsive web applications that blend performance with design.**  
+**Deepening my expertise in backend technologies while evolving into a versatile full-stack developer.**
+
+</div>
+
 
 ---
 
