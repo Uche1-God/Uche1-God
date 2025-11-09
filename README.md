@@ -24,7 +24,7 @@
 
 ### 🧩 Featured Projects
 
-- 🛒 [Rug Shop](https://github.com/Uche1-God/rug-shop) — A modern Django-based e-commerce web app.  
+- 🛒 [Rug Shop](https://github.com/Uche1-God/rug_shop) — A modern Django-based e-commerce web app.  
 - 🌐 [Portfolio Website](https://github.com/Uche1-God/portfolio-site) — Responsive portfolio built with HTML, CSS, and JavaScript.  
 - ⚙️ [Backend API Demo](https://github.com/Uche1-God/api-demo) — RESTful API built with Django and MySQL.
 
