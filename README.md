@@ -22,13 +22,43 @@
 
 ---
 
-### 🧩 Featured Projects
+---
 
-- 🛒 [Rug Shop](https://github.com/Uche1-God/rug_shop) — A modern Django-based e-commerce web app.  
-- 🌐 [Portfolio Website](https://github.com/Uche1-God/portfolio-site) — Responsive portfolio built with HTML, CSS, and JavaScript.  
-- ⚙️ [Backend API Demo](https://github.com/Uche1-God/api-demo) — RESTful API built with Django and MySQL.
+<h2 align="center">🧩 <b>Featured Projects</b></h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="300">
+      <img src="https://img.icons8.com/color/96/000000/shopping-cart.png" width="60"/><br>
+      <a href="https://github.com/Uche1-God/rug_shop"><b>Rug Shop</b></a><br>
+      <sub>🛒 A modern Django-based e-commerce web app with sleek UI and MySQL integration.</sub>
+    </td>
+    <td align="center" width="300">
+      <img src="https://img.icons8.com/color/96/000000/internet.png" width="60"/><br>
+      <a href="https://github.com/Uche1-God/portfolio-site"><b>Portfolio Website</b></a><br>
+      <sub>🌐 Responsive personal portfolio built with HTML, CSS, and JavaScript.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <img src="https://img.icons8.com/color/96/000000/api-settings.png" width="60"/><br>
+      <a href="https://github.com/Uche1-God/api-demo"><b>Backend API Demo</b></a><br>
+      <sub>⚙️ RESTful API built with Django and MySQL, focused on performance and scalability.</sub>
+    </td>
+    <td align="center" width="300">
+      <img src="https://img.icons8.com/color/96/000000/source-code.png" width="60"/><br>
+      <a href="#"><b>Coming Soon</b></a><br>
+      <sub>🚀 Stay tuned for my next big project — powered by Python and Django!</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
+
 
 
 ---
